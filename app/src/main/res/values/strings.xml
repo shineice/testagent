@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">大字閱讀鏡</string>
+    <string name="service_description">在畫面上顯示一個「字」按鈕。點一下,就會把目前畫面的文字整理成可放大、自動換行的閱讀畫面,避免字被截斷或擠出畫面。</string>
+</resources>
