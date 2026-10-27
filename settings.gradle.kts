@@ -13,3 +13,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "BigLens"
 include(":app")
+include(":keepforme")
